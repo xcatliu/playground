@@ -1,7 +1,9 @@
 测试 GitHub 标题 anchor 转换
 
-## Hello World   foo+-bar　baz
+## 大小写 Hello World
 
-## Hello World   foo+-bar　baz
+## 大小写 Hello World
+
+## 多个空格     Foo   Bar
 
 ## 全角符号　；，。、！Hello
