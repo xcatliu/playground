@@ -3,3 +3,5 @@
 ## Hello World   foo+-bar　baz
 
 ## Hello World   foo+-bar　baz
+
+## 全角符号　；，。、！Hello
